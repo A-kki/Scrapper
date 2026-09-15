@@ -1,0 +1,6 @@
+﻿record_id,url,error_type,error_message,timestamp,retry_count
+2002,https://ayushportal.nic.in/ShowDefault.aspx?IDD=2002,fetch_error,All retries exhausted,2026-09-15T08:44:16.776332+00:00,0
+2015,http://www.e-ijd.org/downloadpdf.asp?issn=0019-5154;year=1998;volume=43;issue=3;spage=102;epage=104;aulast=Mitra;type=2,pdf_download_failed,HTTP 403,2026-09-15T08:47:02.849232+00:00,0
+2028,http://www.touchbriefings.com/pdf/2960/reddy.pdf,pdf_download_failed,No response after retries,2026-09-15T08:47:29.731009+00:00,0
+2033,http://www.chiroonline.net/_fileCabinet/aloeveracream.pdf,pdf_download_failed,No response after retries,2026-09-15T08:48:06.673157+00:00,0
+2038,http://www.e-ijd.org/downloadpdf.asp?issn=0019-5154;year=1998;volume=43;issue=3;spage=102;epage=104;aulast=Mitra;type=2,pdf_download_failed,HTTP 403,2026-09-15T08:48:12.107240+00:00,0

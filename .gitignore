@@ -1,0 +1,28 @@
+﻿# Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Large downloads & logs
+logs/
+*.log
+pdfs/*.pdf
+!pdfs/.gitkeep
+data/raw/*
+!data/raw/.gitkeep
+
+# IDE & Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
